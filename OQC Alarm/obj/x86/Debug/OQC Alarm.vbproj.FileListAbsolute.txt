@@ -1,0 +1,147 @@
+D:\VB 2010\OQC Inform\OQC Alarm\OQC Alarm\bin\Debug\OQC Alarm.exe
+D:\VB 2010\OQC Inform\OQC Alarm\OQC Alarm\bin\Debug\OQC Alarm.pdb
+D:\VB 2010\OQC Inform\OQC Alarm\OQC Alarm\bin\Debug\OQC Alarm.xml
+D:\VB 2010\OQC Inform\OQC Alarm\OQC Alarm\obj\x86\Debug\OQC_Alarm.Resources.resources
+D:\VB 2010\OQC Inform\OQC Alarm\OQC Alarm\obj\x86\Debug\OQC Alarm.exe
+D:\VB 2010\OQC Inform\OQC Alarm\OQC Alarm\obj\x86\Debug\OQC Alarm.xml
+D:\VB 2010\OQC Inform\OQC Alarm\OQC Alarm\obj\x86\Debug\OQC Alarm.pdb
+D:\VB 2010\OQC Inform\OQC Alarm\OQC Alarm\obj\x86\Debug\OQC_Alarm.MainForm.resources
+D:\VB 2010\OQC Inform\OQC Alarm\OQC Alarm\bin\Debug\OQC Alarm.exe.config
+D:\VB 2010\OQC Inform\OQC Alarm\OQC Alarm\bin\Debug\Database1.mdf
+D:\VB 2010\OQC Inform\OQC Alarm\OQC Alarm\bin\Debug\Database1_log.ldf
+D:\VB 2010\OQC Inform\OQC Alarm\OQC Alarm\obj\x86\Debug\OQC_Alarm.CS_Toyodenso.resources
+D:\VB 2010\OQC Inform\OQC Alarm\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSHondaLock.resources
+D:\VB 2010\OQC Inform\OQC Alarm\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSYokowo.resources
+D:\VB 2010\OQC Inform\OQC Alarm\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSBrother.resources
+D:\VB 2010\OQC Inform\OQC Alarm\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSCanon.resources
+D:\VB 2010\OQC Inform\OQC Alarm\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSFuji.resources
+D:\VB 2010\OQC Inform\OQC Alarm\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSKyocera.resources
+D:\VB 2010\OQC Inform\OQC Alarm\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSMurata.resources
+D:\VB 2010\OQC Inform\OQC Alarm\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSSchneider.resources
+D:\VB 2010\OQC Inform\OQC Alarm\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSNihon.resources
+D:\VB 2010\OQC Inform\OQC Alarm\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSNichicon.resources
+D:\VB 2010\OQC Inform\OQC Alarm\OQC Alarm\obj\x86\Debug\OQC_Alarm.Export_file.resources
+D:\VB 2010\OQC Inform\OQC Alarm\OQC Alarm\obj\x86\Debug\OQC Alarm.vbproj.GenerateResource.Cache
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\bin\Debug\OQC Alarm.exe.config
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\obj\x86\Debug\OQC Alarm.exe
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\obj\x86\Debug\OQC Alarm.xml
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\obj\x86\Debug\OQC Alarm.pdb
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\bin\Debug\Database1.mdf
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\bin\Debug\Database1_log.ldf
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\bin\Debug\OQC Alarm.exe
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\bin\Debug\OQC Alarm.pdb
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\bin\Debug\OQC Alarm.xml
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\bin\Debug\Interop.WMPLib.dll
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\bin\Debug\AxInterop.WMPLib.dll
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\obj\x86\Debug\Interop.WMPLib.dll
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\obj\x86\Debug\OQC Alarm.vbproj.ResolveComReference.cache
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSBrother.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSCanon.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSFuji.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSHondaLock.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSKyocera.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSMurata.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSNichicon.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSSchneider.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSYokowo.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\obj\x86\Debug\OQC_Alarm.CS_Toyodenso.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\obj\x86\Debug\OQC_Alarm.Export_file.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\obj\x86\Debug\OQC_Alarm.MainForm.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\obj\x86\Debug\OQC_Alarm.Resources.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSNihon.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION\OQC Alarm\obj\x86\Debug\OQC Alarm.vbproj.GenerateResource.Cache
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\bin\Debug\OQC Alarm.exe.config
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\Interop.WMPLib.dll
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC Alarm.vbproj.ResolveComReference.cache
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC Alarm.exe
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC Alarm.xml
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC Alarm.pdb
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\bin\Debug\Database1.mdf
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\bin\Debug\Database1_log.ldf
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\bin\Debug\OQC Alarm.exe
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\bin\Debug\OQC Alarm.pdb
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\bin\Debug\OQC Alarm.xml
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\bin\Debug\Interop.WMPLib.dll
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\bin\Debug\AxInterop.WMPLib.dll
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSBrother.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSCanon.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSFuji.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSHondaLock.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSKyocera.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSMurata.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSNichicon.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSSchneider.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSYokowo.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.CS_Toyodenso.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.Export_file.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.MainForm.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.Resources.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSNihon.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC Alarm.vbproj.GenerateResource.Cache
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\bin\Debug\OQC Alarm.exe.config
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\Interop.WMPLib.dll
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC Alarm.vbproj.ResolveComReference.cache
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\bin\Debug\Database1.mdf
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\bin\Debug\Database1_log.ldf
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\bin\Debug\OQC Alarm.exe
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\bin\Debug\OQC Alarm.pdb
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\bin\Debug\OQC Alarm.xml
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\bin\Debug\Interop.WMPLib.dll
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\bin\Debug\AxInterop.WMPLib.dll
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSBrother.resources
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSCanon.resources
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSFuji.resources
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSHondaLock.resources
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSKyocera.resources
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSMurata.resources
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSNichicon.resources
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSSchneider.resources
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSYokowo.resources
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.CS_Toyodenso.resources
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.Export_file.resources
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.MainForm.resources
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.Resources.resources
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSNihon.resources
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC Alarm.vbproj.GenerateResource.Cache
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC Alarm.exe
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC Alarm.xml
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\OQC Alarm\obj\x86\Debug\OQC Alarm.pdb
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\bin\Debug\OQC Alarm.exe.config
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\obj\x86\Debug\Interop.WMPLib.dll
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\obj\x86\Debug\OQC Alarm.vbproj.ResolveComReference.cache
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\obj\x86\Debug\OQC Alarm.exe
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\obj\x86\Debug\OQC Alarm.xml
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\obj\x86\Debug\OQC Alarm.pdb
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\bin\Debug\Database1.mdf
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\bin\Debug\Database1_log.ldf
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\bin\Debug\OQC Alarm.exe
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\bin\Debug\OQC Alarm.pdb
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\bin\Debug\OQC Alarm.xml
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\bin\Debug\Interop.WMPLib.dll
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\bin\Debug\AxInterop.WMPLib.dll
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSBrother.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSCanon.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSFuji.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSHondaLock.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSKyocera.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSMurata.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSNichicon.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSSchneider.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSYokowo.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\obj\x86\Debug\OQC_Alarm.CS_Toyodenso.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\obj\x86\Debug\OQC_Alarm.Export_file.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\obj\x86\Debug\OQC_Alarm.MainForm.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\obj\x86\Debug\OQC_Alarm.Resources.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\obj\x86\Debug\OQC_Alarm.CSNihon.resources
+D:\VB 2010\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\obj\x86\Debug\OQC Alarm.vbproj.GenerateResource.Cache
+D:\VIP\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\bin\Debug\OQC Alarm.exe.config
+D:\VIP\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\obj\x86\Debug\Interop.WMPLib.dll
+D:\VIP\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\VIP\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\obj\x86\Debug\OQC Alarm.vbproj.ResolveComReference.cache
+D:\VIP\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\obj\x86\Debug\OQC Alarm.exe
+D:\VIP\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\obj\x86\Debug\OQC Alarm.xml
+D:\VIP\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\OQC Alarm\obj\x86\Debug\OQC Alarm.pdb

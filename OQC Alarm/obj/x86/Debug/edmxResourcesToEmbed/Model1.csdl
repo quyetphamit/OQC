@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Database1Model" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="Database1Entities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Brothers" EntityType="Database1Model.Brother" />
+    <EntitySet Name="Canons" EntityType="Database1Model.Canon" />
+    <EntitySet Name="Customers" EntityType="Database1Model.Customer" />
+    <EntitySet Name="ErrrorOfMonths" EntityType="Database1Model.ErrrorOfMonth" />
+    <EntitySet Name="Fujixeroxes" EntityType="Database1Model.Fujixerox" />
+    <EntitySet Name="HondaLocks" EntityType="Database1Model.HondaLock" />
+    <EntitySet Name="InformationErrors" EntityType="Database1Model.InformationError" />
+    <EntitySet Name="Kyoceras" EntityType="Database1Model.Kyocera" />
+    <EntitySet Name="LoiHangNams" EntityType="Database1Model.LoiHangNam" />
+    <EntitySet Name="LoiHangThangs" EntityType="Database1Model.LoiHangThang" />
+    <EntitySet Name="Muratas" EntityType="Database1Model.Murata" />
+    <EntitySet Name="Nichicons" EntityType="Database1Model.Nichicon" />
+    <EntitySet Name="Nihondesans" EntityType="Database1Model.Nihondesan" />
+    <EntitySet Name="Schneiders" EntityType="Database1Model.Schneider" />
+    <EntitySet Name="TOYODENSOes" EntityType="Database1Model.TOYODENSO" />
+    <EntitySet Name="Yokowoes" EntityType="Database1Model.Yokowo" />
+  </EntityContainer>
+  <EntityType Name="Brother">
+    <Key>
+      <PropertyRef Name="DateProduction" />
+    </Key>
+    <Property Name="DateProduction" Type="String" Nullable="false" MaxLength="8" Unicode="true" FixedLength="false" />
+    <Property Name="ErrorTotal" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Canon">
+    <Key>
+      <PropertyRef Name="DateProduction" />
+    </Key>
+    <Property Name="DateProduction" Type="String" Nullable="false" MaxLength="8" Unicode="true" FixedLength="false" />
+    <Property Name="ErrorTotal" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="NameCustomer" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="ErrrorOfMonth">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DateOfMonth" Type="String" MaxLength="8" Unicode="true" FixedLength="false" />
+    <Property Name="TotalError" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Fujixerox">
+    <Key>
+      <PropertyRef Name="DateProduction" />
+    </Key>
+    <Property Name="DateProduction" Type="String" Nullable="false" MaxLength="8" Unicode="true" FixedLength="false" />
+    <Property Name="ErrorTotal" Type="Int32" />
+  </EntityType>
+  <EntityType Name="HondaLock">
+    <Key>
+      <PropertyRef Name="DateProduction" />
+    </Key>
+    <Property Name="DateProduction" Type="String" Nullable="false" MaxLength="8" Unicode="true" FixedLength="false" />
+    <Property Name="ErrorTotal" Type="Int32" />
+  </EntityType>
+  <EntityType Name="InformationError">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DateProduction" Type="String" MaxLength="8" Unicode="true" FixedLength="false" />
+    <Property Name="DayShift" Type="Boolean" />
+    <Property Name="DateErrorToyodenso" Type="Int32" />
+    <Property Name="DateErrorHondaLock" Type="Int32" />
+    <Property Name="DateErrorYokowo" Type="Int32" />
+    <Property Name="DateErrorNihondesan" Type="Int32" />
+    <Property Name="DateErrorCanon" Type="Int32" />
+    <Property Name="DateErrorBrother" Type="Int32" />
+    <Property Name="DateErrorMurata" Type="Int32" />
+    <Property Name="DateErrorSchneider" Type="Int32" />
+    <Property Name="DateErrorKyocera" Type="Int32" />
+    <Property Name="DateErrorFujixerox" Type="Int32" />
+    <Property Name="DateErrorNichicon" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Kyocera">
+    <Key>
+      <PropertyRef Name="DateProduction" />
+    </Key>
+    <Property Name="DateProduction" Type="String" Nullable="false" MaxLength="8" Unicode="true" FixedLength="false" />
+    <Property Name="ErrorTotal" Type="Int32" />
+  </EntityType>
+  <EntityType Name="LoiHangNam">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nam" Type="String" MaxLength="4" Unicode="true" FixedLength="false" />
+    <Property Name="T1" Type="Int32" />
+    <Property Name="T2" Type="Int32" />
+    <Property Name="T3" Type="Int32" />
+    <Property Name="T4" Type="Int32" />
+    <Property Name="T5" Type="Int32" />
+    <Property Name="T6" Type="Int32" />
+    <Property Name="T7" Type="Int32" />
+    <Property Name="T8" Type="Int32" />
+    <Property Name="T9" Type="Int32" />
+    <Property Name="T10" Type="Int32" />
+    <Property Name="T11" Type="Int32" />
+    <Property Name="T12" Type="Int32" />
+  </EntityType>
+  <EntityType Name="LoiHangThang">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NamThang" Type="String" MaxLength="6" Unicode="true" FixedLength="false" />
+    <Property Name="TotalError" Type="Int32" />
+    <Property Name="ErrorToyodenso" Type="Int32" />
+    <Property Name="ErrorHondaLock" Type="Int32" />
+    <Property Name="ErrorYokowo" Type="Int32" />
+    <Property Name="ErrorNihondesan" Type="Int32" />
+    <Property Name="ErrorCanon" Type="Int32" />
+    <Property Name="ErrorBrother" Type="Int32" />
+    <Property Name="ErrorMurata" Type="Int32" />
+    <Property Name="ErrorSchneider" Type="Int32" />
+    <Property Name="ErrorKyocera" Type="Int32" />
+    <Property Name="ErrorFujixerox" Type="Int32" />
+    <Property Name="ErrorNichicon" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Murata">
+    <Key>
+      <PropertyRef Name="DateProduction" />
+    </Key>
+    <Property Name="DateProduction" Type="String" Nullable="false" MaxLength="8" Unicode="true" FixedLength="false" />
+    <Property Name="ErrorTotal" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Nichicon">
+    <Key>
+      <PropertyRef Name="DateProduction" />
+    </Key>
+    <Property Name="DateProduction" Type="String" Nullable="false" MaxLength="8" Unicode="true" FixedLength="false" />
+    <Property Name="ErrorTotal" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Nihondesan">
+    <Key>
+      <PropertyRef Name="DateProduction" />
+    </Key>
+    <Property Name="DateProduction" Type="String" Nullable="false" MaxLength="8" Unicode="true" FixedLength="false" />
+    <Property Name="ErrorTotal" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Schneider">
+    <Key>
+      <PropertyRef Name="DateProduction" />
+    </Key>
+    <Property Name="DateProduction" Type="String" Nullable="false" MaxLength="8" Unicode="true" FixedLength="false" />
+    <Property Name="ErrorTotal" Type="Int32" />
+  </EntityType>
+  <EntityType Name="TOYODENSO">
+    <Key>
+      <PropertyRef Name="DateProduction" />
+    </Key>
+    <Property Name="DateProduction" Type="String" Nullable="false" MaxLength="8" Unicode="true" FixedLength="false" />
+    <Property Name="ErrorTotal" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Yokowo">
+    <Key>
+      <PropertyRef Name="DateProduction" />
+    </Key>
+    <Property Name="DateProduction" Type="String" Nullable="false" MaxLength="8" Unicode="true" FixedLength="false" />
+    <Property Name="ErrorTotal" Type="Int32" />
+  </EntityType>
+</Schema>

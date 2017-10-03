@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Database1Model.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="Database1ModelStoreContainer">
+    <EntitySet Name="Brother" EntityType="Database1Model.Store.Brother" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Canon" EntityType="Database1Model.Store.Canon" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Customer" EntityType="Database1Model.Store.Customer" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ErrrorOfMonth" EntityType="Database1Model.Store.ErrrorOfMonth" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Fujixerox" EntityType="Database1Model.Store.Fujixerox" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="HondaLock" EntityType="Database1Model.Store.HondaLock" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="InformationError" EntityType="Database1Model.Store.InformationError" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Kyocera" EntityType="Database1Model.Store.Kyocera" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="LoiHangNam" EntityType="Database1Model.Store.LoiHangNam" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="LoiHangThang" EntityType="Database1Model.Store.LoiHangThang" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Murata" EntityType="Database1Model.Store.Murata" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Nichicon" EntityType="Database1Model.Store.Nichicon" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Nihondesan" EntityType="Database1Model.Store.Nihondesan" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Schneider" EntityType="Database1Model.Store.Schneider" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TOYODENSO" EntityType="Database1Model.Store.TOYODENSO" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Yokowo" EntityType="Database1Model.Store.Yokowo" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Brother">
+    <Key>
+      <PropertyRef Name="DateProduction" />
+    </Key>
+    <Property Name="DateProduction" Type="nvarchar" Nullable="false" MaxLength="8" />
+    <Property Name="ErrorTotal" Type="int" />
+  </EntityType>
+  <EntityType Name="Canon">
+    <Key>
+      <PropertyRef Name="DateProduction" />
+    </Key>
+    <Property Name="DateProduction" Type="nvarchar" Nullable="false" MaxLength="8" />
+    <Property Name="ErrorTotal" Type="int" />
+  </EntityType>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="NameCustomer" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="ErrrorOfMonth">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="DateOfMonth" Type="nvarchar" MaxLength="8" />
+    <Property Name="TotalError" Type="int" />
+  </EntityType>
+  <EntityType Name="Fujixerox">
+    <Key>
+      <PropertyRef Name="DateProduction" />
+    </Key>
+    <Property Name="DateProduction" Type="nvarchar" Nullable="false" MaxLength="8" />
+    <Property Name="ErrorTotal" Type="int" />
+  </EntityType>
+  <EntityType Name="HondaLock">
+    <Key>
+      <PropertyRef Name="DateProduction" />
+    </Key>
+    <Property Name="DateProduction" Type="nvarchar" Nullable="false" MaxLength="8" />
+    <Property Name="ErrorTotal" Type="int" />
+  </EntityType>
+  <EntityType Name="InformationError">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="DateProduction" Type="nvarchar" MaxLength="8" />
+    <Property Name="DayShift" Type="bit" />
+    <Property Name="DateErrorToyodenso" Type="int" />
+    <Property Name="DateErrorHondaLock" Type="int" />
+    <Property Name="DateErrorYokowo" Type="int" />
+    <Property Name="DateErrorNihondesan" Type="int" />
+    <Property Name="DateErrorCanon" Type="int" />
+    <Property Name="DateErrorBrother" Type="int" />
+    <Property Name="DateErrorMurata" Type="int" />
+    <Property Name="DateErrorSchneider" Type="int" />
+    <Property Name="DateErrorKyocera" Type="int" />
+    <Property Name="DateErrorFujixerox" Type="int" />
+    <Property Name="DateErrorNichicon" Type="int" />
+  </EntityType>
+  <EntityType Name="Kyocera">
+    <Key>
+      <PropertyRef Name="DateProduction" />
+    </Key>
+    <Property Name="DateProduction" Type="nvarchar" Nullable="false" MaxLength="8" />
+    <Property Name="ErrorTotal" Type="int" />
+  </EntityType>
+  <EntityType Name="LoiHangNam">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Nam" Type="nvarchar" MaxLength="4" />
+    <Property Name="T1" Type="int" />
+    <Property Name="T2" Type="int" />
+    <Property Name="T3" Type="int" />
+    <Property Name="T4" Type="int" />
+    <Property Name="T5" Type="int" />
+    <Property Name="T6" Type="int" />
+    <Property Name="T7" Type="int" />
+    <Property Name="T8" Type="int" />
+    <Property Name="T9" Type="int" />
+    <Property Name="T10" Type="int" />
+    <Property Name="T11" Type="int" />
+    <Property Name="T12" Type="int" />
+  </EntityType>
+  <EntityType Name="LoiHangThang">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="NamThang" Type="nvarchar" MaxLength="6" />
+    <Property Name="TotalError" Type="int" />
+    <Property Name="ErrorToyodenso" Type="int" />
+    <Property Name="ErrorHondaLock" Type="int" />
+    <Property Name="ErrorYokowo" Type="int" />
+    <Property Name="ErrorNihondesan" Type="int" />
+    <Property Name="ErrorCanon" Type="int" />
+    <Property Name="ErrorBrother" Type="int" />
+    <Property Name="ErrorMurata" Type="int" />
+    <Property Name="ErrorSchneider" Type="int" />
+    <Property Name="ErrorKyocera" Type="int" />
+    <Property Name="ErrorFujixerox" Type="int" />
+    <Property Name="ErrorNichicon" Type="int" />
+  </EntityType>
+  <EntityType Name="Murata">
+    <Key>
+      <PropertyRef Name="DateProduction" />
+    </Key>
+    <Property Name="DateProduction" Type="nvarchar" Nullable="false" MaxLength="8" />
+    <Property Name="ErrorTotal" Type="int" />
+  </EntityType>
+  <EntityType Name="Nichicon">
+    <Key>
+      <PropertyRef Name="DateProduction" />
+    </Key>
+    <Property Name="DateProduction" Type="nvarchar" Nullable="false" MaxLength="8" />
+    <Property Name="ErrorTotal" Type="int" />
+  </EntityType>
+  <EntityType Name="Nihondesan">
+    <Key>
+      <PropertyRef Name="DateProduction" />
+    </Key>
+    <Property Name="DateProduction" Type="nvarchar" Nullable="false" MaxLength="8" />
+    <Property Name="ErrorTotal" Type="int" />
+  </EntityType>
+  <EntityType Name="Schneider">
+    <Key>
+      <PropertyRef Name="DateProduction" />
+    </Key>
+    <Property Name="DateProduction" Type="nvarchar" Nullable="false" MaxLength="8" />
+    <Property Name="ErrorTotal" Type="int" />
+  </EntityType>
+  <EntityType Name="TOYODENSO">
+    <Key>
+      <PropertyRef Name="DateProduction" />
+    </Key>
+    <Property Name="DateProduction" Type="nvarchar" Nullable="false" MaxLength="8" />
+    <Property Name="ErrorTotal" Type="int" />
+  </EntityType>
+  <EntityType Name="Yokowo">
+    <Key>
+      <PropertyRef Name="DateProduction" />
+    </Key>
+    <Property Name="DateProduction" Type="nvarchar" Nullable="false" MaxLength="8" />
+    <Property Name="ErrorTotal" Type="int" />
+  </EntityType>
+</Schema>

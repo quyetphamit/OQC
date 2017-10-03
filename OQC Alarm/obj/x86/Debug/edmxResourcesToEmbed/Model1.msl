@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Database1ModelStoreContainer" CdmEntityContainer="Database1Entities1">
+    <EntitySetMapping Name="Brothers">
+      <EntityTypeMapping TypeName="Database1Model.Brother">
+        <MappingFragment StoreEntitySet="Brother">
+          <ScalarProperty Name="DateProduction" ColumnName="DateProduction" />
+          <ScalarProperty Name="ErrorTotal" ColumnName="ErrorTotal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Canons">
+      <EntityTypeMapping TypeName="Database1Model.Canon">
+        <MappingFragment StoreEntitySet="Canon">
+          <ScalarProperty Name="DateProduction" ColumnName="DateProduction" />
+          <ScalarProperty Name="ErrorTotal" ColumnName="ErrorTotal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Customers">
+      <EntityTypeMapping TypeName="Database1Model.Customer">
+        <MappingFragment StoreEntitySet="Customer">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NameCustomer" ColumnName="NameCustomer" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ErrrorOfMonths">
+      <EntityTypeMapping TypeName="Database1Model.ErrrorOfMonth">
+        <MappingFragment StoreEntitySet="ErrrorOfMonth">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="DateOfMonth" ColumnName="DateOfMonth" />
+          <ScalarProperty Name="TotalError" ColumnName="TotalError" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Fujixeroxes">
+      <EntityTypeMapping TypeName="Database1Model.Fujixerox">
+        <MappingFragment StoreEntitySet="Fujixerox">
+          <ScalarProperty Name="DateProduction" ColumnName="DateProduction" />
+          <ScalarProperty Name="ErrorTotal" ColumnName="ErrorTotal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HondaLocks">
+      <EntityTypeMapping TypeName="Database1Model.HondaLock">
+        <MappingFragment StoreEntitySet="HondaLock">
+          <ScalarProperty Name="DateProduction" ColumnName="DateProduction" />
+          <ScalarProperty Name="ErrorTotal" ColumnName="ErrorTotal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="InformationErrors">
+      <EntityTypeMapping TypeName="Database1Model.InformationError">
+        <MappingFragment StoreEntitySet="InformationError">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="DateProduction" ColumnName="DateProduction" />
+          <ScalarProperty Name="DayShift" ColumnName="DayShift" />
+          <ScalarProperty Name="DateErrorToyodenso" ColumnName="DateErrorToyodenso" />
+          <ScalarProperty Name="DateErrorHondaLock" ColumnName="DateErrorHondaLock" />
+          <ScalarProperty Name="DateErrorYokowo" ColumnName="DateErrorYokowo" />
+          <ScalarProperty Name="DateErrorNihondesan" ColumnName="DateErrorNihondesan" />
+          <ScalarProperty Name="DateErrorCanon" ColumnName="DateErrorCanon" />
+          <ScalarProperty Name="DateErrorBrother" ColumnName="DateErrorBrother" />
+          <ScalarProperty Name="DateErrorMurata" ColumnName="DateErrorMurata" />
+          <ScalarProperty Name="DateErrorSchneider" ColumnName="DateErrorSchneider" />
+          <ScalarProperty Name="DateErrorKyocera" ColumnName="DateErrorKyocera" />
+          <ScalarProperty Name="DateErrorFujixerox" ColumnName="DateErrorFujixerox" />
+          <ScalarProperty Name="DateErrorNichicon" ColumnName="DateErrorNichicon" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kyoceras">
+      <EntityTypeMapping TypeName="Database1Model.Kyocera">
+        <MappingFragment StoreEntitySet="Kyocera">
+          <ScalarProperty Name="DateProduction" ColumnName="DateProduction" />
+          <ScalarProperty Name="ErrorTotal" ColumnName="ErrorTotal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LoiHangNams">
+      <EntityTypeMapping TypeName="Database1Model.LoiHangNam">
+        <MappingFragment StoreEntitySet="LoiHangNam">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nam" ColumnName="Nam" />
+          <ScalarProperty Name="T1" ColumnName="T1" />
+          <ScalarProperty Name="T2" ColumnName="T2" />
+          <ScalarProperty Name="T3" ColumnName="T3" />
+          <ScalarProperty Name="T4" ColumnName="T4" />
+          <ScalarProperty Name="T5" ColumnName="T5" />
+          <ScalarProperty Name="T6" ColumnName="T6" />
+          <ScalarProperty Name="T7" ColumnName="T7" />
+          <ScalarProperty Name="T8" ColumnName="T8" />
+          <ScalarProperty Name="T9" ColumnName="T9" />
+          <ScalarProperty Name="T10" ColumnName="T10" />
+          <ScalarProperty Name="T11" ColumnName="T11" />
+          <ScalarProperty Name="T12" ColumnName="T12" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LoiHangThangs">
+      <EntityTypeMapping TypeName="Database1Model.LoiHangThang">
+        <MappingFragment StoreEntitySet="LoiHangThang">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NamThang" ColumnName="NamThang" />
+          <ScalarProperty Name="TotalError" ColumnName="TotalError" />
+          <ScalarProperty Name="ErrorToyodenso" ColumnName="ErrorToyodenso" />
+          <ScalarProperty Name="ErrorHondaLock" ColumnName="ErrorHondaLock" />
+          <ScalarProperty Name="ErrorYokowo" ColumnName="ErrorYokowo" />
+          <ScalarProperty Name="ErrorNihondesan" ColumnName="ErrorNihondesan" />
+          <ScalarProperty Name="ErrorCanon" ColumnName="ErrorCanon" />
+          <ScalarProperty Name="ErrorBrother" ColumnName="ErrorBrother" />
+          <ScalarProperty Name="ErrorMurata" ColumnName="ErrorMurata" />
+          <ScalarProperty Name="ErrorSchneider" ColumnName="ErrorSchneider" />
+          <ScalarProperty Name="ErrorKyocera" ColumnName="ErrorKyocera" />
+          <ScalarProperty Name="ErrorFujixerox" ColumnName="ErrorFujixerox" />
+          <ScalarProperty Name="ErrorNichicon" ColumnName="ErrorNichicon" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Muratas">
+      <EntityTypeMapping TypeName="Database1Model.Murata">
+        <MappingFragment StoreEntitySet="Murata">
+          <ScalarProperty Name="DateProduction" ColumnName="DateProduction" />
+          <ScalarProperty Name="ErrorTotal" ColumnName="ErrorTotal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Nichicons">
+      <EntityTypeMapping TypeName="Database1Model.Nichicon">
+        <MappingFragment StoreEntitySet="Nichicon">
+          <ScalarProperty Name="DateProduction" ColumnName="DateProduction" />
+          <ScalarProperty Name="ErrorTotal" ColumnName="ErrorTotal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Nihondesans">
+      <EntityTypeMapping TypeName="Database1Model.Nihondesan">
+        <MappingFragment StoreEntitySet="Nihondesan">
+          <ScalarProperty Name="DateProduction" ColumnName="DateProduction" />
+          <ScalarProperty Name="ErrorTotal" ColumnName="ErrorTotal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Schneiders">
+      <EntityTypeMapping TypeName="Database1Model.Schneider">
+        <MappingFragment StoreEntitySet="Schneider">
+          <ScalarProperty Name="DateProduction" ColumnName="DateProduction" />
+          <ScalarProperty Name="ErrorTotal" ColumnName="ErrorTotal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TOYODENSOes">
+      <EntityTypeMapping TypeName="Database1Model.TOYODENSO">
+        <MappingFragment StoreEntitySet="TOYODENSO">
+          <ScalarProperty Name="DateProduction" ColumnName="DateProduction" />
+          <ScalarProperty Name="ErrorTotal" ColumnName="ErrorTotal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Yokowoes">
+      <EntityTypeMapping TypeName="Database1Model.Yokowo">
+        <MappingFragment StoreEntitySet="Yokowo">
+          <ScalarProperty Name="DateProduction" ColumnName="DateProduction" />
+          <ScalarProperty Name="ErrorTotal" ColumnName="ErrorTotal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

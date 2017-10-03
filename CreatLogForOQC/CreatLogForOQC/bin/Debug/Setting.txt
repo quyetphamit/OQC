@@ -1,0 +1,4 @@
+# duong dan ghi log cho may 1
+D:\machine1
+# duong dan ghi log cho may 2
+D:\machine2

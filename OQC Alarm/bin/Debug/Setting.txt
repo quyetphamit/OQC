@@ -1,0 +1,18 @@
+#Setup COM RF: ComPort,Baudrate,Databits,Parity,StopBits
+COM6,9600,8,None,1
+#Setup COM Control: ComPort,Baudrate,Databits,Parity,StopBits
+COM7,9600,8,None,1
+# TIMER 1
+500
+# TIMER 2
+1000
+# TIMER 3
+300
+# Thoi gian den nhap nhay
+30
+# Cho phep dung nhac 1: co, 0: khong su dung
+1
+# Ten file nhac chay
+bao-thuc-quan-doi.mp3
+#duong dan lay log
+\\umc-c231\OQC share Cuong\wip111

@@ -1,0 +1,588 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+OQCAlarm
+</name>
+</assembly>
+<members>
+<member name="M:OQC_Alarm.Database1Entities1.#ctor">
+	<summary>
+ Initializes a new Database1Entities1 object using the connection string found in the 'Database1Entities1' section of the application configuration file.
+ </summary>
+</member><member name="M:OQC_Alarm.Database1Entities1.#ctor(System.String)">
+	<summary>
+ Initialize a new Database1Entities1 object.
+ </summary>
+</member><member name="M:OQC_Alarm.Database1Entities1.#ctor(System.Data.EntityClient.EntityConnection)">
+	<summary>
+ Initialize a new Database1Entities1 object.
+ </summary>
+</member><member name="P:OQC_Alarm.Database1Entities1.Brothers">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.Database1Entities1.Canons">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.Database1Entities1.Customers">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.Database1Entities1.ErrrorOfMonths">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.Database1Entities1.Fujixeroxes">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.Database1Entities1.HondaLocks">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.Database1Entities1.InformationErrors">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.Database1Entities1.Kyoceras">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.Database1Entities1.LoiHangNams">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.Database1Entities1.LoiHangThangs">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.Database1Entities1.Muratas">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.Database1Entities1.Nichicons">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.Database1Entities1.Nihondesans">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.Database1Entities1.Schneiders">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.Database1Entities1.TOYODENSOes">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.Database1Entities1.Yokowoes">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:OQC_Alarm.Database1Entities1.AddToBrothers(OQC_Alarm.Brother)">
+	<summary>
+ Deprecated Method for adding a new object to the Brothers EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:OQC_Alarm.Database1Entities1.AddToCanons(OQC_Alarm.Canon)">
+	<summary>
+ Deprecated Method for adding a new object to the Canons EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:OQC_Alarm.Database1Entities1.AddToCustomers(OQC_Alarm.Customer)">
+	<summary>
+ Deprecated Method for adding a new object to the Customers EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:OQC_Alarm.Database1Entities1.AddToErrrorOfMonths(OQC_Alarm.ErrrorOfMonth)">
+	<summary>
+ Deprecated Method for adding a new object to the ErrrorOfMonths EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:OQC_Alarm.Database1Entities1.AddToFujixeroxes(OQC_Alarm.Fujixerox)">
+	<summary>
+ Deprecated Method for adding a new object to the Fujixeroxes EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:OQC_Alarm.Database1Entities1.AddToHondaLocks(OQC_Alarm.HondaLock)">
+	<summary>
+ Deprecated Method for adding a new object to the HondaLocks EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:OQC_Alarm.Database1Entities1.AddToInformationErrors(OQC_Alarm.InformationError)">
+	<summary>
+ Deprecated Method for adding a new object to the InformationErrors EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:OQC_Alarm.Database1Entities1.AddToKyoceras(OQC_Alarm.Kyocera)">
+	<summary>
+ Deprecated Method for adding a new object to the Kyoceras EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:OQC_Alarm.Database1Entities1.AddToLoiHangNams(OQC_Alarm.LoiHangNam)">
+	<summary>
+ Deprecated Method for adding a new object to the LoiHangNams EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:OQC_Alarm.Database1Entities1.AddToLoiHangThangs(OQC_Alarm.LoiHangThang)">
+	<summary>
+ Deprecated Method for adding a new object to the LoiHangThangs EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:OQC_Alarm.Database1Entities1.AddToMuratas(OQC_Alarm.Murata)">
+	<summary>
+ Deprecated Method for adding a new object to the Muratas EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:OQC_Alarm.Database1Entities1.AddToNichicons(OQC_Alarm.Nichicon)">
+	<summary>
+ Deprecated Method for adding a new object to the Nichicons EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:OQC_Alarm.Database1Entities1.AddToNihondesans(OQC_Alarm.Nihondesan)">
+	<summary>
+ Deprecated Method for adding a new object to the Nihondesans EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:OQC_Alarm.Database1Entities1.AddToSchneiders(OQC_Alarm.Schneider)">
+	<summary>
+ Deprecated Method for adding a new object to the Schneiders EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:OQC_Alarm.Database1Entities1.AddToTOYODENSOes(OQC_Alarm.TOYODENSO)">
+	<summary>
+ Deprecated Method for adding a new object to the TOYODENSOes EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:OQC_Alarm.Database1Entities1.AddToYokowoes(OQC_Alarm.Yokowo)">
+	<summary>
+ Deprecated Method for adding a new object to the Yokowoes EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="T:OQC_Alarm.Database1Entities1">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:OQC_Alarm.Brother.CreateBrother(System.String)">
+	<summary>
+ Create a new Brother object.
+ </summary>
+	<param name="dateProduction">Initial value of the DateProduction property.</param>
+</member><member name="P:OQC_Alarm.Brother.DateProduction">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.Brother.ErrorTotal">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:OQC_Alarm.Brother">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:OQC_Alarm.Canon.CreateCanon(System.String)">
+	<summary>
+ Create a new Canon object.
+ </summary>
+	<param name="dateProduction">Initial value of the DateProduction property.</param>
+</member><member name="P:OQC_Alarm.Canon.DateProduction">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.Canon.ErrorTotal">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:OQC_Alarm.Canon">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:OQC_Alarm.Customer.CreateCustomer(System.Int32)">
+	<summary>
+ Create a new Customer object.
+ </summary>
+	<param name="id">Initial value of the ID property.</param>
+</member><member name="P:OQC_Alarm.Customer.ID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.Customer.NameCustomer">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:OQC_Alarm.Customer">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:OQC_Alarm.ErrrorOfMonth.CreateErrrorOfMonth(System.Int32)">
+	<summary>
+ Create a new ErrrorOfMonth object.
+ </summary>
+	<param name="id">Initial value of the Id property.</param>
+</member><member name="P:OQC_Alarm.ErrrorOfMonth.Id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.ErrrorOfMonth.DateOfMonth">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.ErrrorOfMonth.TotalError">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:OQC_Alarm.ErrrorOfMonth">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:OQC_Alarm.Fujixerox.CreateFujixerox(System.String)">
+	<summary>
+ Create a new Fujixerox object.
+ </summary>
+	<param name="dateProduction">Initial value of the DateProduction property.</param>
+</member><member name="P:OQC_Alarm.Fujixerox.DateProduction">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.Fujixerox.ErrorTotal">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:OQC_Alarm.Fujixerox">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:OQC_Alarm.HondaLock.CreateHondaLock(System.String)">
+	<summary>
+ Create a new HondaLock object.
+ </summary>
+	<param name="dateProduction">Initial value of the DateProduction property.</param>
+</member><member name="P:OQC_Alarm.HondaLock.DateProduction">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.HondaLock.ErrorTotal">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:OQC_Alarm.HondaLock">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:OQC_Alarm.InformationError.CreateInformationError(System.Int32)">
+	<summary>
+ Create a new InformationError object.
+ </summary>
+	<param name="id">Initial value of the ID property.</param>
+</member><member name="P:OQC_Alarm.InformationError.ID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.InformationError.DateProduction">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.InformationError.DayShift">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.InformationError.DateErrorToyodenso">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.InformationError.DateErrorHondaLock">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.InformationError.DateErrorYokowo">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.InformationError.DateErrorNihondesan">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.InformationError.DateErrorCanon">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.InformationError.DateErrorBrother">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.InformationError.DateErrorMurata">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.InformationError.DateErrorSchneider">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.InformationError.DateErrorKyocera">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.InformationError.DateErrorFujixerox">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.InformationError.DateErrorNichicon">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:OQC_Alarm.InformationError">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:OQC_Alarm.Kyocera.CreateKyocera(System.String)">
+	<summary>
+ Create a new Kyocera object.
+ </summary>
+	<param name="dateProduction">Initial value of the DateProduction property.</param>
+</member><member name="P:OQC_Alarm.Kyocera.DateProduction">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.Kyocera.ErrorTotal">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:OQC_Alarm.Kyocera">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:OQC_Alarm.LoiHangNam.CreateLoiHangNam(System.Int32)">
+	<summary>
+ Create a new LoiHangNam object.
+ </summary>
+	<param name="id">Initial value of the Id property.</param>
+</member><member name="P:OQC_Alarm.LoiHangNam.Id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.LoiHangNam.Nam">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.LoiHangNam.T1">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.LoiHangNam.T2">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.LoiHangNam.T3">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.LoiHangNam.T4">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.LoiHangNam.T5">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.LoiHangNam.T6">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.LoiHangNam.T7">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.LoiHangNam.T8">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.LoiHangNam.T9">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.LoiHangNam.T10">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.LoiHangNam.T11">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.LoiHangNam.T12">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:OQC_Alarm.LoiHangNam">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:OQC_Alarm.LoiHangThang.CreateLoiHangThang(System.Int32)">
+	<summary>
+ Create a new LoiHangThang object.
+ </summary>
+	<param name="id">Initial value of the ID property.</param>
+</member><member name="P:OQC_Alarm.LoiHangThang.ID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.LoiHangThang.NamThang">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.LoiHangThang.TotalError">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.LoiHangThang.ErrorToyodenso">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.LoiHangThang.ErrorHondaLock">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.LoiHangThang.ErrorYokowo">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.LoiHangThang.ErrorNihondesan">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.LoiHangThang.ErrorCanon">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.LoiHangThang.ErrorBrother">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.LoiHangThang.ErrorMurata">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.LoiHangThang.ErrorSchneider">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.LoiHangThang.ErrorKyocera">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.LoiHangThang.ErrorFujixerox">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.LoiHangThang.ErrorNichicon">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:OQC_Alarm.LoiHangThang">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:OQC_Alarm.Murata.CreateMurata(System.String)">
+	<summary>
+ Create a new Murata object.
+ </summary>
+	<param name="dateProduction">Initial value of the DateProduction property.</param>
+</member><member name="P:OQC_Alarm.Murata.DateProduction">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.Murata.ErrorTotal">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:OQC_Alarm.Murata">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:OQC_Alarm.Nichicon.CreateNichicon(System.String)">
+	<summary>
+ Create a new Nichicon object.
+ </summary>
+	<param name="dateProduction">Initial value of the DateProduction property.</param>
+</member><member name="P:OQC_Alarm.Nichicon.DateProduction">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.Nichicon.ErrorTotal">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:OQC_Alarm.Nichicon">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:OQC_Alarm.Nihondesan.CreateNihondesan(System.String)">
+	<summary>
+ Create a new Nihondesan object.
+ </summary>
+	<param name="dateProduction">Initial value of the DateProduction property.</param>
+</member><member name="P:OQC_Alarm.Nihondesan.DateProduction">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.Nihondesan.ErrorTotal">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:OQC_Alarm.Nihondesan">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:OQC_Alarm.Schneider.CreateSchneider(System.String)">
+	<summary>
+ Create a new Schneider object.
+ </summary>
+	<param name="dateProduction">Initial value of the DateProduction property.</param>
+</member><member name="P:OQC_Alarm.Schneider.DateProduction">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.Schneider.ErrorTotal">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:OQC_Alarm.Schneider">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:OQC_Alarm.TOYODENSO.CreateTOYODENSO(System.String)">
+	<summary>
+ Create a new TOYODENSO object.
+ </summary>
+	<param name="dateProduction">Initial value of the DateProduction property.</param>
+</member><member name="P:OQC_Alarm.TOYODENSO.DateProduction">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.TOYODENSO.ErrorTotal">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:OQC_Alarm.TOYODENSO">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:OQC_Alarm.Yokowo.CreateYokowo(System.String)">
+	<summary>
+ Create a new Yokowo object.
+ </summary>
+	<param name="dateProduction">Initial value of the DateProduction property.</param>
+</member><member name="P:OQC_Alarm.Yokowo.DateProduction">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.Yokowo.ErrorTotal">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:OQC_Alarm.Yokowo">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:OQC_Alarm.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:OQC_Alarm.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:OQC_Alarm.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

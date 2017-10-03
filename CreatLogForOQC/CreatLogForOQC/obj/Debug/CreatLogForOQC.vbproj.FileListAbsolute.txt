@@ -1,0 +1,20 @@
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\CreatLogForOQC\CreatLogForOQC\bin\Debug\CreatLogForOQC.exe
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\CreatLogForOQC\CreatLogForOQC\bin\Debug\CreatLogForOQC.pdb
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\CreatLogForOQC\CreatLogForOQC\bin\Debug\CreatLogForOQC.xml
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\CreatLogForOQC\CreatLogForOQC\obj\Debug\CreatLogForOQC.vbprojResolveAssemblyReference.cache
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\CreatLogForOQC\CreatLogForOQC\obj\Debug\CreatLogForOQC.Form1.resources
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\CreatLogForOQC\CreatLogForOQC\obj\Debug\CreatLogForOQC.Resources.resources
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\CreatLogForOQC\CreatLogForOQC\obj\Debug\CreatLogForOQC.vbproj.GenerateResource.Cache
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\CreatLogForOQC\CreatLogForOQC\obj\Debug\CreatLogForOQC.exe
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\CreatLogForOQC\CreatLogForOQC\obj\Debug\CreatLogForOQC.xml
+D:\Program\OQC Alarm PRODUCTION V2 Mang LAN\CreatLogForOQC\CreatLogForOQC\obj\Debug\CreatLogForOQC.pdb
+D:\VIP\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\CreatLogForOQC\CreatLogForOQC\obj\Debug\CreatLogForOQC.exe
+D:\VIP\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\CreatLogForOQC\CreatLogForOQC\obj\Debug\CreatLogForOQC.xml
+D:\VIP\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\CreatLogForOQC\CreatLogForOQC\obj\Debug\CreatLogForOQC.pdb
+D:\VIP\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\CreatLogForOQC\CreatLogForOQC\bin\Debug\CreatLogForOQC.exe
+D:\VIP\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\CreatLogForOQC\CreatLogForOQC\bin\Debug\CreatLogForOQC.pdb
+D:\VIP\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\CreatLogForOQC\CreatLogForOQC\bin\Debug\CreatLogForOQC.xml
+D:\VIP\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\CreatLogForOQC\CreatLogForOQC\obj\Debug\CreatLogForOQC.vbprojResolveAssemblyReference.cache
+D:\VIP\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\CreatLogForOQC\CreatLogForOQC\obj\Debug\CreatLogForOQC.Form1.resources
+D:\VIP\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\CreatLogForOQC\CreatLogForOQC\obj\Debug\CreatLogForOQC.Resources.resources
+D:\VIP\OQC Inform\OQC Alarm PRODUCTION V2 Mang LAN chinh kich thuoc man hinh\CreatLogForOQC\CreatLogForOQC\obj\Debug\CreatLogForOQC.vbproj.GenerateResource.Cache
